@@ -6,4 +6,4 @@
 
 ## Blogs
 
-- [Stella Liu - AI Evals and Analytics](https://datasciencexai.substack.com/)
+- [AI Evals and Analytics](https://datasciencexai.substack.com/) - Stella Liu
